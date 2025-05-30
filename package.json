@@ -1,0 +1,23 @@
+{
+  "name": "latency",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/cryptondee/latency#readme",
+  "bugs": {
+    "url": "https://github.com/cryptondee/latency/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptondee/latency.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "r2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ethers": "^6.14.3"
+  }
+}
