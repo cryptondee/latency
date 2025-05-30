@@ -8,12 +8,7 @@ const { ethers } = require("ethers");
 // RPC URLs to test
 const rpcUrls = [
   "https://carrot.megaeth.com/rpc", // MegaETH RPC
-  "https://testnet.gte.xyz/api/rpc", // GTE rpc
   "https://testnet-rpc.monad.xyz", // Monad RPC
-  "https://dream-rpc.somnia.network/", // Somnia RPC
-  "https://arb1.arbitrum.io/rpc", // arb1
-  "https://base.llamarpc.com", // base lama
-  "https://base.rpc.subquery.network/public", // subquery
 ];
 
 // Test duration in milliseconds (10 seconds)
